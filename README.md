@@ -1,6 +1,6 @@
 <!-- 🔝 Banner GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" style="max-width:900px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60%" style="max-width:900px;" />
 </div>
 
 - 🔭 B.Tech undergraduate  
@@ -16,9 +16,4 @@
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-%23007ACC?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23007ACC?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23007ACC?style=for-the-badge&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%23007ACC?style=for-the-badge&logo=cplusplusplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23007ACC?style=for-the-badge&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23007ACC?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23007ACC?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23007ACC?style=for-the-badge&logo=aws&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=white) 
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Singh-Rawat&show_icons=true&locale=en" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Singh-Rawat&show_icons=true&locale=en&layout=compact" />
-</p>
 
