@@ -1,6 +1,6 @@
 <!-- 🔝 Banner GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" style="max-width:900px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" style="max-width:900px;" />
 </div>
 
 - 🔭 B.Tech undergraduate  
@@ -20,9 +20,5 @@
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Singh-Rawat&show_icons=true&locale=en" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Singh-Rawat&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Singh-Rawat&" alt="Gaurav-Singh-Rawat" />
 </p>
 
