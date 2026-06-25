@@ -3,9 +3,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60%" style="max-width:900px;" />
 </div>
 
-- 🔭 B.Tech undergraduate  
-- 🌱 Currently learning Machine Learning and AI  
-- 👯 Seeking opportunities to collaborate on real-world projects.  
+- B.Tech Undergrad
+- Seeking opportunities to collaborate on real-world projects.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
